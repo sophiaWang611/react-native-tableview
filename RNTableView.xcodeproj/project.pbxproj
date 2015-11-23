@@ -280,7 +280,7 @@
 					"$(SRCROOT)/../react-native/React/**",
 					"$(SRCROOT)/../../React/**",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = RNTableView;
 				SKIP_INSTALL = YES;
@@ -300,7 +300,7 @@
 					"$(SRCROOT)/../react-native/React/**",
 					"$(SRCROOT)/../../React/**",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = RNTableView;
 				SKIP_INSTALL = YES;
